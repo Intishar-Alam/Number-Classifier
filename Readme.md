@@ -16,6 +16,8 @@ through an interactive web app.
 The goal: see, visually and numerically, why a simple Perceptron struggles where
 a CNN thrives — using the exact same drawn input for all three models at once.
 
+🔗 Live Demo: number-classifier-project.streamlit.app
+
 ## 📊 Dataset
 
 - **Dataset:** MNIST handwritten digits (0–9)
